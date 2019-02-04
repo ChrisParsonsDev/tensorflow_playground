@@ -1,6 +1,6 @@
 # TensorFlow Playground
 
-Lots of cool TensorFlow demos/general code snippets that may at some point be useful to me.
+Lots of cool [TensorFlow](https://www.tensorflow.org) demos/general code snippets that may at some point be useful to me.
 
 ## Code Samples
 

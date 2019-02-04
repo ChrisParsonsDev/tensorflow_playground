@@ -5,7 +5,8 @@ Lots of cool [TensorFlow](https://www.tensorflow.org) demos/general code snippet
 ## Code Samples
 
 1. [Softmax](./code/softmax.py) - Manual implementation of Softmax, the function that squashes logits from a network into probabilities.
-2. [notMNIST](./code/notmnist.ipynb)
+2. [notMNIST](./code/notmnist.ipynb) - Not MNIST. Cool exploration of Pickle files, randomising datasets and training linear models.
+3. [Fully Connected](./code/fullyconnected.ipynb) - Converting Stochastic Gradient Descent to a 1-hidden layer neural network in TensorFlow.
 
 ## Datasets
 

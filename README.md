@@ -9,10 +9,12 @@ Lots of cool [TensorFlow](https://www.tensorflow.org) demos/general code snippet
 3. [Fully Connected](./code/fullyconnected.ipynb) - Converting Stochastic Gradient Descent to a 1-hidden layer neural network in TensorFlow.
 4. [Regularisation](./code/regularisation.ipynb) - Using dropout and regularisation in TensorFlow.
 5. [Convolutions](./code/convolutions.ipynb) - CNN architectures, dropout and pooling.
-
+6. [LSTM](./code/lstm.ipynb) - 
 ## Datasets
+
+**note** you'll need to make the data directory yourself. From the project root run `mkdir data`.
 
 Working locally the datasets exist in the `./data` directory. To reduce the size of this repository I've added the contents of this folder to the `.gitignore` but you can find links to the data here..
 
 * [notMNIST](https://www.kaggle.com/lubaroli/notmnist) - Like MNIST but harder. Slightly noisier alphabetic dataset A-J. 10 classes, just like MNIST but in a variety of different fonts.
-* [Text8](http://mattmahoney.net/dc/textdata) - The first 10^9 bytes of text data from Wikipedia! 
+* [Text8](http://mattmahoney.net/dc/textdata) - The first 10^9 bytes of text data from Wikipedia!

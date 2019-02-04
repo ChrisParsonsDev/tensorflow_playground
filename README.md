@@ -13,3 +13,6 @@ Lots of cool [TensorFlow](https://www.tensorflow.org) demos/general code snippet
 ## Datasets
 
 Working locally the datasets exist in the `./data` directory. To reduce the size of this repository I've added the contents of this folder to the `.gitignore` but you can find links to the data here..
+
+* [notMNIST](https://www.kaggle.com/lubaroli/notmnist) - Like MNIST but harder. Slightly noisier alphabetic dataset A-J. 10 classes, just like MNIST but in a variety of different fonts.
+* [Text8](http://mattmahoney.net/dc/textdata) - The first 10^9 bytes of text data from Wikipedia! 

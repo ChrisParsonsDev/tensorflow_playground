@@ -9,7 +9,8 @@ Lots of cool [TensorFlow](https://www.tensorflow.org) demos/general code snippet
 3. [Fully Connected](./code/fullyconnected.ipynb) - Converting Stochastic Gradient Descent to a 1-hidden layer neural network in TensorFlow.
 4. [Regularisation](./code/regularisation.ipynb) - Using dropout and regularisation in TensorFlow.
 5. [Convolutions](./code/convolutions.ipynb) - CNN architectures, dropout and pooling.
-6. [LSTM](./code/lstm.ipynb) - 
+6. [LSTM](./code/lstm.ipynb) - Simple implementation of LSTM architectures in TensorFlow.
+
 ## Datasets
 
 **note** you'll need to make the data directory yourself. From the project root run `mkdir data`.
